@@ -30,8 +30,8 @@ ___
 ## **공동연구**
 
 
-- 서울과학기술대학교, 전기정보공학과, 이영일교수님 연구실  [DCSL(Digital Control System Lab.)](http://mpc.seoultech.ac.kr/)  
+- 서울과학기술대학교, 전기정보공학과, 이영일 교수님 연구실  [DCSL(Digital Control System Lab.)](http://mpc.seoultech.ac.kr/)  
 
 
-- 서울과학기술대학교, 전자공학과, 강병근교수님 연구실  [MVL(Machine Vision Lab.)](https://visionlab.seoultech.ac.kr/index.do)
+- 서울과학기술대학교, 전자공학과, 강병근 교수님 연구실  [MVL(Machine Vision Lab.)](https://visionlab.seoultech.ac.kr/index.do)
 
