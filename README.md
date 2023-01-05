@@ -1,10 +1,8 @@
-## Electric Vehicle Charge Inlet Detection Network <br><sub>전기차 로봇 자동 충전 시스템</sub>
+## 전기차 로봇 자동 충전 시스템 <br><sub>운전자의 개입없이 전기차를 충전할 수 있는 시스템 </sub>
 
 </br>
 
-### **프로젝트 소개**  
-
-운전자의 개입없이 전기차를 충전할 수 있는 시스템.  
+### **프로젝트 소개** 
 최근 전기차 고속 충전 서비스가 본격 확산되면서 안전하고 편리한 서비스를 위한 로봇 기반 자동 충전 서비스에 대한 요구가 커지고 있습니다.  
 로봇 기반 자동 충전 서비스는 운전자의 개입 없이 전기차 충전을 가능케 하여 전자파 노출과 고하중의 충전 케이블로 인한 부상을 방지할 수 있으며 충전소의 필요 인력을 최소화할 수 있습니다. 
 
@@ -15,8 +13,6 @@
 ### 비디오
 
 <div align="center">
-
-</br>
 
 <a href="https://youtu.be/fJj9gMjqj5E"> <img height="300" src="src/videoA.gif"/></a>
 <a href="https://youtu.be/EJNUggFkkgU"> <img height="300" src="src/videoB.gif"/></a>
