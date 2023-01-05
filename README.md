@@ -1,8 +1,8 @@
-# Electric Vehicle Charge Inlet Detection Network <br><sub>전기차 로봇 자동 충전 시스템</sub>
+## Electric Vehicle Charge Inlet Detection Network <br><sub>전기차 로봇 자동 충전 시스템</sub>
 
 </br>
 
-## **프로젝트 소개**  
+### **프로젝트 소개**  
 
 운전자의 개입없이 전기차를 충전할 수 있는 시스템.  
 최근 전기차 고속 충전 서비스가 본격 확산되면서 안전하고 편리한 서비스를 위한 로봇 기반 자동 충전 서비스에 대한 요구가 커지고 있습니다.  
@@ -12,11 +12,11 @@
 
 </br>
 
+### 비디오
+
 <div align="center">
 
 </br>
-
-### Video1
 
 <a href="https://youtu.be/fJj9gMjqj5E"> <img height="300" src="src/videoA.gif"/></a>
 <a href="https://youtu.be/EJNUggFkkgU"> <img height="300" src="src/videoB.gif"/></a>
@@ -34,4 +34,4 @@ ___
 
 
 - 서울과학기술대학교, 전자공학과, 강병근교수님 연구실  [MVL(Machine Vision Lab.)](https://visionlab.seoultech.ac.kr/index.do)
-# EVCIDNet
+
