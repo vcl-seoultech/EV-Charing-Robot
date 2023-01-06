@@ -15,8 +15,8 @@
 
 <div align="center">
 
-<a href="https://www.youtube.com/watch?v=eeYhkv7ZOro"> <img height="300" src="src/videoA.gif"/></a>
-<a href="https://youtu.be/L4G-ywpL8OM"> <img height="300" src="src/videoB.gif"/></a>
+<a href="https://youtube.com/watch?v=SbYNSNhpAa8?feature=share"> <img height="300" src="src/videoA.gif"/></a>
+<a href="https://youtu.be/WdAmGhUl9XY"> <img height="300" src="src/videoB.gif"/></a>
 
 </div>
 
